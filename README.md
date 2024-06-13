@@ -1,2 +1,2 @@
-# CodSoft task-1
-landing page
+# CodSoft Task-1
+Landing page project
